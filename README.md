@@ -1,32 +1,34 @@
-<h1 align="center" id="title">YouTube Clone</h1>
+<h1 align="center" id="title">Mamaearth-clone</h1>
 
-<p id="description">A video-sharing platform used to watch videos from all around the world.</p>
+<p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>
 
 <h2>🚀 Demo</h2>
 
-[https://friendly-swirles-867fbd.netlify.app/](https://friendly-swirles-867fbd.netlify.app/)
+[https://vedix-clone.netlify.app/](https://vedix-clone.netlify.app/)
 
 <h2>Project Screenshots:</h2>
-
-<img src="https://i.postimg.cc/wTZQ6nmk/Screenshot-from-2022-04-26-08-28-23.png" alt="project-screenshot" width="80%" height="400/">
-
-<img src="https://i.postimg.cc/J7gkJZzr/Screenshot-from-2022-04-26-08-30-09.png" alt="project-screenshot" width="80%" height="400/">
-
-<img src="https://i.postimg.cc/nc4qJMnn/Screenshot-from-2022-04-26-08-34-36.png" alt="project-screenshot" width="80%" height="400/">
-
-<img src="https://i.postimg.cc/634G1pHJ/Screenshot-from-2022-04-26-08-35-53.png" alt="project-screenshot" width="80%" height="400/">
 
   
   
 <h2>🧐 Features</h2>
 
-Here're some of the project's best features:
+*   Home Page
+*   Sign-in/Sign-up
+*   Products page
+*   Cart Page
+*   Payment Page
+*   Authentication
 
-*   Search Video
-*   Home page with trending video
-*   Responsive
 
+
+<h3>Areas of responsibility<h3/>
   
+ *  Built NavBar and Slider
+ *  Develop  Home Page
+ *  Make it Responsive to all screens
+ *  Payment Page
+  
+  A collaborative project built by a team of 5 , completed in 4 days.  
   
 <h2>💻 Built with</h2>
 
