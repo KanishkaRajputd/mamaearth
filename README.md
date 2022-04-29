@@ -4,7 +4,7 @@
 
 
 
-<img margin-left="30%",margin-top="20px" src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/mamaearth.png"/>
+<img margin-left="30%";margin-top="20px"; src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/mamaearth.png"/>
 
 <h2>🚀 Demo</h2>
 
