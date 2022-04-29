@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Mamaearth-clone</h1>
 
-<p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>
+<p id="description">A website that  provides toxin-free skincare and hair care products , for babies and adults.</p>https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/mamaearth.png
+<img margin-left="30%" src="https://github.com/KanishkaRajputd/Kanishka-Portfolio/raw/main/src/assets/mamaearth.png"/>
 
 <h2>🚀 Demo</h2>
 
