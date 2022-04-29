@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://vedix-clone.netlify.app/](https://vedix-clone.netlify.app/)
+[https://mamaearth-clone-u2.netlify.app/](https://mamaearth-clone-u2.netlify.app/)
 
 <h2>Project Screenshots:</h2>
 
